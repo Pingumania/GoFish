@@ -7,7 +7,7 @@
 	https://www.wowinterface.com/downloads/info22270-GoFish.html
 ----------------------------------------------------------------------]]
 
-local IS_WOW_8 = GetBuildInfo():match("^8")
+local IS_WOW_8 = GetBuildInfo():match("^[89]")
 
 local ADDON, ns = ...
 
