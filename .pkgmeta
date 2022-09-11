@@ -1,9 +1,6 @@
-package-as: GoFish
-
 manual-changelog:
-   filename: CHANGELOG.md
-   markup-type: markdown
+  filename: CHANGELOG.md
+  markup-type: markdown
 
 ignore:
-   - CHANGELOG.md
-   - README.md
+  - "*.md"
