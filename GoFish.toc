@@ -1,4 +1,4 @@
-## Interface: 90207
+## Interface: 100100
 ## Version: @project-version@
 
 ## Title: GoFish
